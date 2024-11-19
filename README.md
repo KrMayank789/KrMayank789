@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on projects related ML & AI<br>🪴 I’m currently learning about ML & AI<br>💬 I'm Interested in Robotics and <br>✍🏽 I'm currently pursuing B.Tech in Computer Science<br>🌱 I’m always learning<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact : I am Batman  
+🔭 I’m currently working on projects related ML & AI<br>🪴 I’m currently learning about ML & AI<br>💬 I'm Interested in Robotics and Machines <br>✍🏽 I'm currently pursuing B.Tech in Computer Science<br>🌱 I’m always learning<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact : I am Batman  
 
 
 ## 🌐 Socials:
