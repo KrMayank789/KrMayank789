@@ -58,9 +58,7 @@ src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpdTlxYnppdDA3Nzg3b3c
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)" 
-
-
+![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)
 
 <h2> ⚡ Power Level <img alt="Konichiwa" height="80px" width="60px" 
 src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ4dzFvNWdtbDJiNDJmZzk2bDFuZmFkaWhkYjFjbWkycnV1dTlnNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EiFEPQYVGAif3hCHBw/giphy.gif">
