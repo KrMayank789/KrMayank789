@@ -1,31 +1,86 @@
-## Welcome to my repository realm— Mayank at your service! 👋
+<div align="center">
 
-<!--
-**KrMayank789/KrMayank789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my repository realm— Mayank at your service!👋 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
-🔭 I’m currently working on projects related ML & AI<br>🪴 I’m currently learning about ML & AI<br>💬 I'm Interested in Robotics and Machines <br>✍🏽 I'm currently pursuing B.Tech in Computer Science<br>🌱 I’m always learning<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact : I am Batman  
+A passionate Machine Learning and Gen AI developer from India  
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr_mayank._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankamrit/) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![n8n](https://img.shields.io/badge/Automation-n8n-4E9DDE?logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20Model-OpenAI-ffb400?logo=openai) 
+<img alt="Konichiwa" height="100px" width="80px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHMxMzZ4OXc3MTlycWV2NmV6czhmOXh6NTBseHNlajJicW9nY2I0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuuywOtkf8gyy89TgY/giphy.gif">
+</img>
+<img alt="Konichiwa" height="120px" width="100px" 
+src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpdTlxYnppdDA3Nzg3b3c1eXdoa2tkM201azQ1djl2NDV3MnNhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oNCpIxCAH73epNPQ1g/giphy.gif">
+</img>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kr._.mayank)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kr_mayank._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankamrit/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/krmayank23)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mayankamrit18)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/mayank18_18/)
+
+</div>
 
 
-![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2> ✨ About Me: The Anime Coder Saga </h2>
+
+<img align="right" alt="Cool SVG" height = "300px" width="300px" src="https://i.postimg.cc/JhjBnc2J/da09ff551d53bcbed10766e8e9604b45-removebg-preview-1.png" />
+  
+- 🍥 **Dream Chaser:** Like *Naruto* chasing Hokage dreams, I’m on a mission to master **AI & ML jutsus**.
+  
+- ⚙️ **Builder Spirit:** Robotics tinkerer—my models **evolve like Pokémon** ⚡.
+  
+- 🦇 **Debug Mode:** Night owl who debugs like *Batman at 3 AM*, fueled by ☕.
+  
+- 🏴‍☠️ **Explorer:** Sailing tech seas like *Luffy* hunting the **One Piece** 🗺️.
+  
+- 💫 **Ultimate Goal:** Unlock **Ultra Instinct in coding**—clean, powerful, unstoppable 🚀.
+
+- 📧  **Contact me at** : mayankamrit18@gmail.com  
+
+
+
+<h2> 🎮 Tech Arsenal & Power-Ups </h2>
+
+
+
+<div align="center" >
+  
+<p>
+  <img  src="https://skillicons.dev/icons?i=python,js,ts,cpp,fastapi,sklearn,selenium,vscode,flask,django,tailwind,html,css,docker,azure,firebase,git,github,postman,linux,mysql,postgres,matlab,mongodb,opencv,tensorflow,pytorch,windows&perline=15" />
+</p>
+
+
+
+
+</div>
+
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)" alt="Snake animation"
+
+
+
+<h1> ⚡ Power Level <img alt="Konichiwa" height="100px" width="80px" 
+src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ4dzFvNWdtbDJiNDJmZzk2bDFuZmFkaWhkYjFjbWkycnV1dTlnNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EiFEPQYVGAif3hCHBw/giphy.gif">
+</img>
+</h1> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrMayank789&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FA9A&line=32CD32&point=ffffff&area=true&area_color=ADFF2F" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrMayank789&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/KrMayank789?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black" />
+  <img src="https://img.shields.io/badge/Pikachu%20Energy-Over%209000!-yellow?style=for-the-badge&logo=pokemon&logoColor=white" />
+</div>
+
+<br>
+<div align="center">
+
+**⚡ "May your code compile on the first try and your models achieve 99% accuracy!" ⚡**
+
+*-Your सुभचिन्तक : Mayank Kumar💛💮*
+
+</div>
