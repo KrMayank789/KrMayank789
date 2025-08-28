@@ -70,7 +70,7 @@ src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ4dzFvNWdtbDJiNDJmZzk2
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KrMayank789&color=yellow&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/KrMayank789?label=FOLLOWERS&style=for-the-badge&color=red&labelColor=black" />
+  <img src="https://img.shields.io/github/followers/KrMayank789?label=Followers&style=for-the-badge&color=red&labelColor=black" />
   <img src="https://img.shields.io/badge/Pikachu%20Energy-Over%209000!-yellow?style=for-the-badge&logo=pokemon&logoColor=white" />
 </div>
 
