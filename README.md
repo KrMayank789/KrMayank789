@@ -25,7 +25,7 @@ src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpdTlxYnppdDA3Nzg3b3c
 
 <h2> ✨ About Me: The Anime Coder Saga </h2>
 
-<img align="right" alt="Cool SVG" width="300px" src="https://i.postimg.cc/j2SSGTP4/pi.png" />
+<img align="right" alt="Cool SVG" width="30%" src="https://i.postimg.cc/j2SSGTP4/pi.png" />
   
 - 🍥 **Dream Chaser:** Like *Naruto* chasing Hokage dreams, I’m on a mission to master **AI & ML jutsus**.
   
