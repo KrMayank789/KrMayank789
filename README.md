@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![OpenAI](https://img.shields.io/badge/AI%20Model-OpenAI-ffb400?logo=openai) 
 
 
-
+![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
