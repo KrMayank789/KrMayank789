@@ -58,14 +58,14 @@ src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVpdTlxYnppdDA3Nzg3b3c
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)" alt="Snake animation"
+![Snake animation](https://raw.githubusercontent.com/KrMayank789/KrMayank789/output/snake-dark.svg)" 
 
 
 
-<h1> ⚡ Power Level <img alt="Konichiwa" height="100px" width="80px" 
+<h2> ⚡ Power Level <img alt="Konichiwa" height="80px" width="60px" 
 src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ4dzFvNWdtbDJiNDJmZzk2bDFuZmFkaWhkYjFjbWkycnV1dTlnNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EiFEPQYVGAif3hCHBw/giphy.gif">
 </img>
-</h1> 
+</h2> 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrMayank789&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FA9A&line=32CD32&point=ffffff&area=true&area_color=ADFF2F" alt="Activity Graph" />
 </div>
