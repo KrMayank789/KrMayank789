@@ -2,7 +2,7 @@
 
 # Welcome to my repository realm— Mayank at your service!👋 
 
-A passionate Machine Learning and Gen AI developer from India  
+An upcoming Machine Learning and Gen AI developer from India  
 
 
 
